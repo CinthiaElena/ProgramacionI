@@ -1,0 +1,83 @@
+PELICULAS {NOMBRE, DIRECTOR, AÑO}
+
+
+Interstellar 
+Christopher Nolan 
+2014
+-------------------
+Blade Runner 2049 
+Denis Villeneuve
+2017
+-------------------
+Dumbo
+Tim Burton
+2019
+-------------------
+Pulp Fiction
+Quentin Tarantino 
+1994
+-------------------
+Scarface
+Brian De Palma 
+1983
+-------------------
+Zodiac 
+David Fincher 
+2017
+-------------------
+Dazed and Confused 
+Richard Linklater
+1993
+-------------------
+Clueless
+Amy Heckerling 
+1995
+-------------------
+Dracula 
+Francis Ford Coppola
+1992
+-------------------
+Beetlejuice 
+Tim Burton 
+1988
+-------------------
+El resplandor 
+Stanley Kubrick
+1980
+-------------------
+La liga de la justicia 
+Zack Snyder 
+2021
+-------------------
+Dune 
+Denis Villeneuve
+2021
+-------------------
+Cinema Paradiso 
+Giuseppe Tornatore 
+1988
+-------------------
+La forma del agua
+Guillermo del Toro
+2017
+-------------------
+Medianoche en Paris 
+Woody Allen 
+2011
+-------------------
+La La Land 
+Damien Chazelle
+2016
+-------------------
+Drive
+Nicholas Winding 
+2012
+-------------------
+Titanic 
+James Cameron 
+1998
+-------------------
+Donnie Darko 
+Richard Kelly
+2001
+-------------------
